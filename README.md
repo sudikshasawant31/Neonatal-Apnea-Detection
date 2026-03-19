@@ -35,12 +35,12 @@ We developed a **non-invasive, camera-based monitoring system** that:
 
 ##  Key Features
 
-✅ Contactless monitoring (no sensors attached to baby)
-✅ Real-time breathing detection
-✅ Instant apnea alert system
-✅ Low-cost and scalable solution
-✅ OLED display for live status
-✅ Suitable for NICU, home care, and rural healthcare
+1. Contactless monitoring (no sensors attached to baby)
+2. Real-time breathing detection
+3. Instant apnea alert system
+4. Low-cost and scalable solution
+5. OLED display for live status
+6. Suitable for NICU, home care, and rural healthcare
 
 ---
 
@@ -58,7 +58,7 @@ We developed a **non-invasive, camera-based monitoring system** that:
 
 ---
 
-## 🔧 Hardware Components
+##  Hardware Components
 
 * ESP32-CAM
 * ESP32 Microcontroller
@@ -128,13 +128,7 @@ Intelligent & Autonomous Engineering Systems
 
 ---
 
-## 📸 Demo
-
-*(Add images/videos here)*
-
----
-
-## 📚 References
+##  References
 
 * S. Ahani et al., *Video-Based RR Estimation for Infants*, IEEE J. Transl. Eng. Health Med., 2024
 * J. Jorge et al., *Non-Contact Monitoring of Respiration in NICU*, IEEE FG Conference, 2017
