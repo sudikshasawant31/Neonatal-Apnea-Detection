@@ -64,7 +64,7 @@ We developed a **non-invasive, camera-based monitoring system** that:
 * ESP32 Microcontroller
 * OLED Display
 * Buzzer
-* LEDs
+* RGB LED module
 * MPU 6050 Sensor
 * LDR module
 * Power Supply
