@@ -1,10 +1,10 @@
-# 🧠 OS Insurgents
+#  OS Insurgents
 
-## 👶 Contactless Neonatal Breathing & Apnea Detection System
+##  Contactless Neonatal Breathing & Apnea Detection System
 
 ---
 
-## 📌 Overview
+##  Overview
 
 Neonatal apnea is a critical condition where newborns suddenly stop breathing without warning. Continuous monitoring is essential, but existing systems are often invasive, expensive, and uncomfortable for infants.
 
@@ -12,7 +12,7 @@ This project presents a **contactless, real-time monitoring system** using **ESP
 
 ---
 
-## 🚨 Problem Statement
+##  Problem Statement
 
 * Newborns can stop breathing silently without visible signs
 * Existing systems use **contact-based sensors** (wires, electrodes)
@@ -22,7 +22,7 @@ This project presents a **contactless, real-time monitoring system** using **ESP
 
 ---
 
-## 💡 Proposed Solution
+##  Proposed Solution
 
 We developed a **non-invasive, camera-based monitoring system** that:
 
@@ -33,7 +33,7 @@ We developed a **non-invasive, camera-based monitoring system** that:
 
 ---
 
-## ⚙️ Key Features
+##  Key Features
 
 ✅ Contactless monitoring (no sensors attached to baby)
 ✅ Real-time breathing detection
@@ -44,7 +44,7 @@ We developed a **non-invasive, camera-based monitoring system** that:
 
 ---
 
-## 🧩 System Architecture
+##  System Architecture
 
 1. **ESP32-CAM** captures live video of infant
 2. Video frames are processed using **OpenCV**
@@ -52,9 +52,9 @@ We developed a **non-invasive, camera-based monitoring system** that:
 4. If no movement is detected for a threshold duration → **Apnea detected**
 5. Alert triggered via:
 
-   * 🔊 Buzzer
-   * 💡 LED
-   * 📺 OLED Display
+   *  Buzzer
+   *  LED
+   *  OLED Display
 
 ---
 
@@ -65,11 +65,13 @@ We developed a **non-invasive, camera-based monitoring system** that:
 * OLED Display
 * Buzzer
 * LEDs
+* MPU 6050 Sensor
+* LDR module
 * Power Supply
 
 ---
 
-## 💻 Software & Tools
+##  Software & Tools
 
 * Python
 * OpenCV
@@ -78,7 +80,7 @@ We developed a **non-invasive, camera-based monitoring system** that:
 
 ---
 
-## 🔄 Working Principle
+##  Working Principle
 
 * Continuous video stream is captured
 * Region of interest (chest area) is tracked
@@ -88,7 +90,7 @@ We developed a **non-invasive, camera-based monitoring system** that:
 
 ---
 
-## 🌍 Applications
+##  Applications
 
 * NICU (Neonatal Intensive Care Units)
 * Home monitoring for premature babies
@@ -97,30 +99,30 @@ We developed a **non-invasive, camera-based monitoring system** that:
 
 ---
 
-## 🚀 Future Scope
+##  Future Scope
 
-* 📱 Mobile app integration for alerts
-* ☁️ Cloud-based monitoring dashboard
-* 🤖 AI-based predictive apnea detection
-* 👶 Multi-infant monitoring system
-* 📊 Data analytics for healthcare insights
+*  Mobile app integration for alerts
+*  Cloud-based monitoring dashboard
+*  AI-based predictive apnea detection
+*  Multi-infant monitoring system
+*  Data analytics for healthcare insights
 
 ---
 
-## 👨‍💻 Team Members
+##  Team Members
 
 * Sudiksha Shailesh Sawant
 * Om Deepak Rane
 
 ---
 
-## 🏫 Institution
+##  Institution
 
 Sardar Patel Institute of Technology, Mumbai
 
 ---
 
-## 🏆 Project Domain
+##  Project Domain
 
 Intelligent & Autonomous Engineering Systems
 
@@ -143,13 +145,13 @@ Intelligent & Autonomous Engineering Systems
 
 ---
 
-## 🙌 Acknowledgment
+##  Acknowledgment
 
 We sincerely thank our mentors and institution for their guidance and support in developing this project.
 
 ---
 
-## ⭐ Contribution
+##  Contribution
 
 Feel free to fork, improve, and contribute to this project!
 
